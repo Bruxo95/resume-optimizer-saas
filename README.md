@@ -60,7 +60,7 @@ A comprehensive AI-powered resume optimization platform that adapts to each coun
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/resume-optimizer-saas.git
+git clone https://github.com/Bruxo95/resume-optimizer-saas.git
 cd resume-optimizer-saas
 ```
 
